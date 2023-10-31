@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm S K Jawad Ahmed</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India💻!</h3>
-<img src="https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47k9z8594eytwe6zsp26mvyjzgmpor9f3err47pxyj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
+<img src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5455.jpg?w=996" alt="">
 - 🔭 I’m currently Exploring **3rd Year Engineering✨**
 
 - 📫 How to reach me **skjawadahmed07@gmail.com**
