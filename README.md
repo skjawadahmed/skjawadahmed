@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋,I'm S K Jawad Ahmed</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India💻!</h3>
-<img align="right" alt="coding" width="550" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+<img align="right" alt="coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 🔭 I’m currently Exploring 3rd Year Engineering✨
 
 📫 How to reach me **skjawadahmed07@gmail.com**
