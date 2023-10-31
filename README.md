@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋,I'm S K Jawad Ahmed</h1>
-<h3 align="center">A passionate Computer Science Engineering Student from India💻! Currently Exploring 3rd Year Engineering✨</h3>
+<h3 align="center">A passionate Computer Science Engineering Student from India💻!</h3>
+
+- 🔭 I’m currently Exploring **3rd Year Engineering✨**
 
 - 📫 How to reach me **skjawadahmed07@gmail.com**
 
