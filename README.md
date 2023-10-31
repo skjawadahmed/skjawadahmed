@@ -1,11 +1,11 @@
-![logo](https://github.com/skjawadahmed/Github-banner.png/blob/main/explore.png)
+<img src="https://github.com/skjawadahmed/Github-banner.png/blob/main/explore.png" width="1000" height="200">
 
 <h1 align="center">Hi 👋,I'm S K Jawad Ahmed</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India💻!</h3>
 <img align="right" alt="coding" width="550" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
-- 🔭 I’m currently Exploring **3rd Year Engineering✨**
+🔭 I’m currently Exploring 3rd Year Engineering✨
 
-- 📫 How to reach me **skjawadahmed07@gmail.com**
+📫 How to reach me **skjawadahmed07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
