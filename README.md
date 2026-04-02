@@ -1,5 +1,3 @@
-<img src="https://github.com/skjawadahmed/Github-banner.png/blob/main/explore.png" width="1000" height="200">
-
 <h1 align="center">Hi 👋,I'm S K Jawad Ahmed</h1>
 <h3 align="center">A  Computer Science Graduate from India 💻!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skjawadahmed&label=Profile%20views&color=0e75b6&style=flat" alt="skjawadahmed" /> </p>
