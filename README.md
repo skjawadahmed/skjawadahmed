@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm S K Jawad Ahmed</h1>
 <h3 align="center">A Computer Science Graduate from India 💻!</h3>
+### 🛠 Technical Skills
+
+**Programming Languages:** Python, C  
+**Databases:** MySQL, MongoDB  
+**Data Analysis:** NumPy, Pandas, SciPy  
+**Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau, Canva  
+**Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Clustering, Classification, NLP Basics, Feature Engineering, Forecasting Analysis  
+**Frameworks & Tools:** Scikit-learn, TensorFlow, PyTorch, XGBoost, Streamlit, Flask  
+**IDEs & Notebooks:** GitHub, VS Code, Google Colab, Git, Jupyter Notebook, PyCharm  
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=skjawadahmed&label=Profile%20views&color=0e75b6&style=flat" alt="skjawadahmed" />
