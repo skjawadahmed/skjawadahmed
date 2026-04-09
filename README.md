@@ -184,3 +184,256 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+S+K+Jawad+Ahmed;CSE+Graduate+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Cool+Stuff+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">💻 Computer Science Graduate from India | AI · ML · Web Development</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skjawadahmed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/skjawadahmed?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+</p>
+
+---
+
+<img align="right" alt="Coding GIF" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" />
+
+### 🙋‍♂️ About Me
+
+- 🎓 **CSE Graduate** — passionate about tech & innovation
+- 🤖 Diving deep into **Artificial Intelligence & Machine Learning**
+- 🌐 Love building things for the **Web**
+- 🔬 Creator of **[SentiScope](https://sentiscoreanalyzer.streamlit.app/)** & **[ValueWheels](https://valuewheels.streamlit.app/)**
+- 📊 Interested in **Data Analysis & Visualization**
+- 📬 Reach me at **skjawadahmed07@gmail.com**
+- ⚡ Fun fact: *Always learning, always experimenting!*
+
+<br clear="right"/>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔬 <b>SentiScope</b></td>
+      <td>AI Sentiment Analyzer — classifies text as <b>Positive 😊, Neutral 😐, or Negative 😡</b> with confidence scores</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </td>
+      <td><a href="https://sentiscoreanalyzer.streamlit.app/"><img src="https://img.shields.io/badge/▶ Launch-brightgreen?style=flat-square"/></a></td>
+    </tr>
+    <tr>
+      <td>🚗 <b>ValueWheels</b></td>
+      <td>Used Car Price Predictor — estimates second-hand car prices using ML regression models</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </td>
+      <td><a href="https://valuewheels.streamlit.app/"><img src="https://img.shields.io/badge/▶ Launch-brightgreen?style=flat-square"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 💬 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+#### 🌐 Frameworks & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+#### 🔧 Dev Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skjawadahmed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skjawadahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=skjawadahmed&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skjawadahmed&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skjawadahmed&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/SkJawadAhmed1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_jawad.ahmed7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/JAWADDHONI7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:skjawadahmed07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=70" />
+</p>
+
+<p align="center"><i>"Code is not just syntax — it's a way of thinking."</i><br/><b>— S K Jawad Ahmed</b></p>
