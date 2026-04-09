@@ -109,3 +109,6 @@
   </a>
   <a href="/cdn-cgi/l/email-protection#bfccd4d5dec8dedbded7d2dadb8f88ffd8d2ded6d391dcd0d2" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba
+  <a href="mailto:skjawadahmed07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
