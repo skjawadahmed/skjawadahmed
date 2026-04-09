@@ -98,17 +98,20 @@
   <a href="https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://twitter.com/SkJawadAhmed1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  
   <a href="https://www.instagram.com/_jawad.ahmed7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://www.facebook.com/JAWADDHONI7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#bfccd4d5dec8dedbded7d2dadb8f88ffd8d2ded6d391dcd0d2" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba
+  
   <a href="mailto:skjawadahmed07@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
