@@ -19,7 +19,8 @@
 - 🤖 Diving deep into **Artificial Intelligence & Machine Learning**
 - 🌐 Enjoy building things for the **Web**
 - 🔬 Creator of **[SentiScope](https://sentiscoreanalyzer.streamlit.app/)** — an AI Sentiment Analyzer
-- 📬 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="acdfc7c6cddbcdc8cdc4c1c9c89c9beccbc1cdc5c082cfc3c1">[email&#160;protected]</a>**
+📬 Reach me at <a href="mailto:skjawadahmed07@gmail.com">skjawadahmed07@gmail.com
+</a>
 - ⚡ Fun fact: *Always learning, always experimenting!*
 
 <br clear="right"/>
