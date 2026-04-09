@@ -106,7 +106,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/](https://www.linkedin.com/in/skjawadahmed07/)" target="_blank">
+  <a href="https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/SkJawadAhmed1" target="_blank">
