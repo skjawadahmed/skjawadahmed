@@ -19,7 +19,7 @@
   <a href="https://twitter.com/SkJawadAhmed1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/" target="_blank">
+  <a href="[https://www.linkedin.com/in/s-k-jawad-ahmed-ab216a286/](https://www.linkedin.com/in/skjawadahmed07/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/_jawad.ahmed7/" target="_blank">
