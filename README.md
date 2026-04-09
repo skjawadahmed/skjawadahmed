@@ -19,31 +19,19 @@
 - 🤖 Diving deep into **Artificial Intelligence & Machine Learning**
 - 🌐 Enjoy building things for the **Web**
 - 🔬 Creator of **[SentiScope](https://sentiscoreanalyzer.streamlit.app/)** — an AI Sentiment Analyzer
-- 📬 Reach me at **skjawadahmed07@gmail.com**
+- 📬 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="acdfc7c6cddbcdc8cdc4c1c9c89c9beccbc1cdc5c082cfc3c1">[email&#160;protected]</a>**
 - ⚡ Fun fact: *Always learning, always experimenting!*
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Featured Project — SentiScope
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://sentiscoreanalyzer.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🔬_SentiScope-Live_Demo-brightgreen?style=for-the-badge" />
-      </a>
-    </td>
-    <td>
-      An <strong>AI-powered Sentiment Analyzer</strong> that classifies text as <strong>Positive 😊, Neutral 😐, or Negative 😡</strong> with confidence scores.
-    </td>
-  </tr>
-</table>
-
-**Built with:** `Python` · `Scikit-learn` · `NLP` · `Streamlit`
-
-> Analyze emotions in text instantly — try it live! 👆
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| 🔬 **SentiScope** | AI Sentiment Analyzer — classifies text as **Positive 😊, Neutral 😐, or Negative 😡** with confidence scores | `Python` `Scikit-learn` `NLP` `Streamlit` | [▶ Launch](https://sentiscoreanalyzer.streamlit.app/) |
+| 🚗 **ValueWheels** | Used Car Price Predictor — estimates second-hand car prices using ML regression models | `Python` `Scikit-learn` `Pandas` `Streamlit` | [▶ Launch](https://valuewheels.streamlit.app/) |
 
 ---
 
@@ -118,14 +106,5 @@
   <a href="https://www.facebook.com/JAWADDHONI7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:skjawadahmed07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is not just syntax — it's a way of thinking."</i><br/>
-  <b>— S K Jawad Ahmed</b>
-</p>
+  <a href="/cdn-cgi/l/email-protection#bfccd4d5dec8dedbded7d2dadb8f88ffd8d2ded6d391dcd0d2" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba
