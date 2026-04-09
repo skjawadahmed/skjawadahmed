@@ -185,7 +185,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=70" />
 </p>
